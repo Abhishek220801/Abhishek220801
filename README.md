@@ -1,7 +1,7 @@
 ### <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hey!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek</h1>
-<h3 align="center">I'm a student, Full Stack Developer, ML Enthusiast.</h3>
+<h3 align="center">I'm a student, Full Stack JavaScript Developer and a Software Engineering Aspirant.</h3>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Abhishek220801">
@@ -60,7 +60,7 @@
     <a href="https://github.com/Abhishek220801/github-readme-streak-stats">
         <img width="48%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek220801 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek220801&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-     <a href="https://github.com/Abhishek220801/github-readme-stats"><img width="48%"  alt="Samriddhi Jain Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek220801&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+     <a href="https://github.com/Abhishek220801/github-readme-stats"><img width="48%"  alt="Abhishek Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek220801&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
   <a href="https://github.com/Abhishek220801/github-readme-stats"><img alt="Abhishek Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek220801&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
