@@ -6,7 +6,7 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Samriddhi43">
 </a>
-<a href="https://github.com/Samriddhi43?tab=followers"><img src="https://img.shields.io/github/followers/Samriddhi43?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Abhishek220801?tab=followers"><img src="https://img.shields.io/github/followers/Samriddhi43?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/samriddhi-jain-9926b5211" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
