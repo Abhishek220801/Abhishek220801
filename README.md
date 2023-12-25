@@ -4,7 +4,7 @@
 <h3 align="center">I'm a student, Full Stack Developer, ML Enthusiast.</h3>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=Samriddhi43">
+ <img src="https://komarev.com/ghpvc/?username=Abhishek220801">
 </a>
 <a href="https://github.com/Abhishek220801?tab=followers"><img src="https://img.shields.io/github/followers/Samriddhi43?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
@@ -57,19 +57,19 @@
 
 <h3> 📊 My Github Stats </h3>
 <p align="center">
-    <a href="https://github.com/Samriddhi43/github-readme-streak-stats">
+    <a href="https://github.com/Abhishek220801/github-readme-streak-stats">
         <img width="48%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Samriddhi43 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Samriddhi43&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-     <a href="https://github.com/Samriddhi43/github-readme-stats"><img width="48%"  alt="Samriddhi Jain Github Stats" src="https://github-readme-stats.vercel.app/api?username=Samriddhi43&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+     <a href="https://github.com/Abhishek220801/github-readme-stats"><img width="48%"  alt="Samriddhi Jain Github Stats" src="https://github-readme-stats.vercel.app/api?username=Samriddhi43&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
-  <a href="https://github.com/Samriddhi43/github-readme-stats"><img alt="Samriddhi Jain Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samriddhi43&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Abhishek220801/github-readme-stats"><img alt="Samriddhi Jain Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samriddhi43&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
-<a href="https://github.com/Samriddhi43/github-readme-activity-graph"><img alt="Samriddhi jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samriddhi43&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Abhishek220801/github-readme-activity-graph"><img alt="Samriddhi jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samriddhi43&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 <hr>
-<img align='center'  height="70" alt="thanks" width="100%" src="https://github.com/Samriddhi43/Samriddhi43/blob/main/marque.svg"/> 
+<img align='center'  height="70" alt="thanks" width="100%" src="https://github.com/Abhishek220801/Abhishek220801/blob/main/marque.svg"/> 
 
 
 
