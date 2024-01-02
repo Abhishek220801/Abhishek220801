@@ -29,7 +29,7 @@
 
 <h3> Language:</h3>
 
-![C++](https://github.com/Abhishek220801/Abhishek220801/assets/90861021/e7d87caf-c148-4d8a-a378-82fa79442d5a)
+![C++][!icon](https://github.com/Abhishek220801/Abhishek220801/assets/90861021/e7d87caf-c148-4d8a-a378-82fa79442d5a)
 )
 )
 ![Python](https://img.icons8.com/color/48/000000/python.png)
