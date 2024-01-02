@@ -29,7 +29,8 @@
 
 <h3> Language:</h3>
 
-![C++] (https://icons8.com/icon/TpULddJc4gTh/c%2B%2B)
+![C++](![image](https://github.com/Abhishek220801/Abhishek220801/assets/90861021/7864d0cd-afc8-42ab-af6f-ac8a42e76cae)
+)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
