@@ -34,7 +34,8 @@
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Java]((https://icons8.com/icon/103144/java))
+![Java](![icon](https://github.com/Abhishek220801/Abhishek220801/assets/90861021/7c06b9d6-663f-434e-9d45-2360f5da6a52)
+)
 ![MySQL](https://img.icons8.com/fluent/50/000000/mysql-logo.png)
 <h3> Libraries & Framework :</h3>
 
