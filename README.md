@@ -29,7 +29,7 @@
 
 <h3> Language:</h3>
 
-![C++]((https://icons8.com/icon/40669/c%2B%2B))
+![C++] (https://icons8.com/icon/TpULddJc4gTh/c%2B%2B)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
