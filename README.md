@@ -9,7 +9,7 @@
 <a href="https://github.com/Abhishek220801?tab=followers"><img src="https://img.shields.io/github/followers/Abhishek220801?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/abhishek-sankhwar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhishek-sankhwar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhi.sankhwar22@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <hr>
