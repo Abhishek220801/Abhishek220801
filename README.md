@@ -15,10 +15,10 @@
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | [🔗 DevTinder](https://github.com/Abhishek220801/devtinder) | MERN, Tailwind, Socket.IO | Tinder for Devs – Swipe, match, and collaborate |
-| [💬 Realtime Chat App](https://github.com/Abhishek220801/chat-app) | Socket.IO, Next.js, MERN | Secure real-time messaging with typing indicators |
+| [💬 Realtime Chat App](https://github.com/Abhishek220801/whatsapp-fs-sockets) | Socket.IO, Next.js, MERN | Secure real-time messaging with typing indicators |
 | [🧠 Resume Analyzer (upcoming)](https://github.com/Abhishek220801/resume-ai) | AI/ML, OpenAI API, Node | Analyze resumes and suggest improvements |
-| [🌍 ShortURL](https://github.com/Abhishek220801/url-shortener) | Express, MongoDB | A custom URL shortener service |
-| [🏠 AirBnB Clone](https://github.com/Abhishek220801/airbnb-clone) | Node.js, Express, MongoDB | A basic AirBnB-style property listing app |
+| [🌍 ShortURL](https://github.com/Abhishek220801/custom-url-shortener) | Express, MongoDB | A custom URL shortener service |
+| [🏠 AirBnB Clone](https://github.com/Abhishek220801/airbnb-mern) | Node.js, Express, MongoDB | A basic AirBnB-style property listing app |
 
 ## 🛠️ Tech Stack
 
