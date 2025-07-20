@@ -1,76 +1,50 @@
 ### <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hey!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek</h1>
-<h3 align="center">I'm a Graduate, Full Stack JavaScript Developer and a Software Engineering Aspirant.</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Sankhwar</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN, Next.js, DevOps & AI Enthusiast</h3>
+
+- 🔭 I’m currently building a **real-time chat app** using **Socket.IO, Next.js, and MERN**
+- 🌱 Building **DevTinder** – A developer matchmaking platform following current industry standards
+- 🤖 Next up: An **AI-powered resume analyzer**
+- 💬 Ask me about **React, Node.js, MongoDB, Express, Next.js, Docker, GitHub Actions**
+- 👯 I’m open to **collaborations** on ambitious full-stack or AI-powered projects
+- ⚡ Fun fact: I love learning about productivity, human psychology, and manifestation!
+
+## 🔥 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [🔗 DevTinder](https://github.com/Abhishek220801/devtinder) | MERN, Tailwind, Socket.IO | Tinder for Devs – Swipe, match, and collaborate |
+| [💬 Realtime Chat App](https://github.com/Abhishek220801/chat-app) | Socket.IO, Next.js, MERN | Secure real-time messaging with typing indicators |
+| [🧠 Resume Analyzer (upcoming)](https://github.com/Abhishek220801/resume-ai) | AI/ML, OpenAI API, Node | Analyze resumes and suggest improvements |
+| [🌍 ShortURL](https://github.com/Abhishek220801/url-shortener) | Express, MongoDB | A custom URL shortener service |
+| [🏠 AirBnB Clone](https://github.com/Abhishek220801/airbnb-clone) | Node.js, Express, MongoDB | A basic AirBnB-style property listing app |
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+
+## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=Abhishek220801">
-</a>
-<a href="https://github.com/Abhishek220801?tab=followers"><img src="https://img.shields.io/github/followers/Abhishek220801?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/abhishek-sankhwar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abhi.sankhwar22@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-<hr>
-
-<h3> About Me</h3>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms and working on Full Stack Web Development Projects.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
-
-- 📫 How to reach me **abhi.sankhwar22@gmail.com**
-<br>
-<br>
-<hr>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<h3> Language:</h3>
-
-![C++](https://github.com/Abhishek220801/Abhishek220801/assets/90861021/e7d87caf-c148-4d8a-a378-82fa79442d5a)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Java](https://github.com/Abhishek220801/Abhishek220801/assets/90861021/7c06b9d6-663f-434e-9d45-2360f5da6a52)
-)
-![MySQL](https://img.icons8.com/fluent/50/000000/mysql-logo.png)
-<h3> Libraries & Framework :</h3>
-
-![Reactjs](https://img.icons8.com/color/48/000000/react-native.png)
-![Nodejs](https://img.icons8.com/color/48/000000/nodejs.png) 
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-![Redux](https://img.icons8.com/color/48/000000/redux.png)
-
-<h3> DevOps & Cloud Tools:</h3>
-
-<a href="#"><img alt="GitHub Pages" src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek220801&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek220801&theme=radical" alt="Abhishek's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek220801&layout=compact&theme=radical" />
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-<hr>
+## 📫 Let's Connect
 
-<h3> 📊 My Github Stats </h3>
-<p align="center">
-    <a href="https://github.com/Abhishek220801/github-readme-streak-stats">
-        <img width="48%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek220801 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek220801&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-     <a href="https://github.com/Abhishek220801/github-readme-stats"><img width="48%"  alt="Abhishek Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek220801&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-  <a href="https://github.com/Abhishek220801/github-readme-stats"><img alt="Abhishek Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek220801&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-<a href="https://github.com/Abhishek220801/github-readme-activity-graph"><img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishek220801&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-<hr>
-<img align='center'  height="70" alt="thanks" width="100%" src="https://github.com/Abhishek220801/Abhishek220801/blob/main/marque.svg"/> 
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-sankhwar/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Abhishek220801)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/abhiInnovates)
