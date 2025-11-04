@@ -1,21 +1,77 @@
+# 👋 Hey there, I'm Abhishek Sankhwar  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sankhwar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbhiInnovates) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi.sankhwar22@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek220801&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhishek220801&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek220801&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhishek220801&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 **Full Stack Developer (MERN | Next.js | Node.js | AWS)**  
+I build scalable, performant, and visually engaging web applications.  
+Passionate about **turning ideas into products**, solving real-world problems through clean architecture, and continuously learning cutting-edge technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhishek220801&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+- 💡 Strong foundation in **DSA, System Design (LLD/HLD), and scalable web apps**
+- 🧩 Experienced in **React.js, Next.js, Node.js, Express, MongoDB, AWS, and Docker**
+- 🛠️ Hands-on with **authentication, WebSockets, REST APIs, and DevOps basics**
+- ☁️ Exploring **.NET Development** and **GenAI integration** to expand my tech stack
+- 🎯 Goal: Land an impactful **Software / Web Developer** role before 2025 ends  
+
+> “I believe in learning fast, building real, and shipping with quality.”
+
+---
+
+## 🧰 Tech Stack  
+
+**Frontend:**  
+HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Next.js • Tailwind CSS • GSAP • Framer Motion • Shadcn UI  
+
+**Backend & API:**  
+Node.js • Express.js • REST APIs • WebSockets • JWT Auth • Redis • Prisma  
+
+**Database:**  
+MongoDB • PostgreSQL (basic)  
+
+**DevOps & Cloud:**  
+Git • Docker • AWS (EC2, S3, VPC, IAM) • GitHub Actions (CI/CD)  
+
+**Other:**  
+C++ • Zustand • Nginx • Postman  
+
+---
+
+## 💼 Featured Projects  
+
+### 🔹 [WhatsApp Clone (Full Stack, Real-Time)](https://github.com/Abhishek220801/whatsapp-fs-sockets)
+A real-time chat app built with Next.js, Node.js, and Socket.IO — features JWT auth, Redis Pub/Sub, and Docker deployment on AWS EC2.  
+> *Scalable chat architecture + production-grade deployment.*
+
+### 🔹 [Custom URL Shortener](https://github.com/Abhishek220801/custom-url-shortener)
+A Node.js & Express-based app for secure URL shortening with analytics and JWT-protected user management.  
+> *Efficient backend logic + middleware analytics.*
+
+### 🔹 [Mojito Cocktails (Frontend Showcase)](https://gsap-cocktail-beige.vercel.app/)
+Animated landing page inspired by Awwwards trends — built with GSAP, Flexbox, and responsive design.  
+> *Focus on creativity, interactivity, and user experience.*
+
+---
+
+## 🌍 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sankhwar/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbhiInnovates)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi.sankhwar22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Abhishek220801)
+
+---
+
+## 📈 GitHub Analytics  
+
+![](https://github-readme-stats.vercel.app/api?username=Abhishek220801&theme=transparent&show_icons=true&hide_border=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Abhishek220801&theme=transparent&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek220801&theme=transparent&layout=compact)
+
+---
+
+## ✨ Quote I Live By
+> *“Execution beats perfection — because shipped code changes lives.”*
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Abhishek220801&icon=0&color=0)](https://visitcount.itsvg.in)
