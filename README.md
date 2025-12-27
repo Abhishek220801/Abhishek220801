@@ -39,7 +39,7 @@ C++ • Zustand • Nginx • Postman
 
 ## 💼 Featured Projects  
 
-### 🔹 [DevTinder – Full Stack MERN Application](https://github.com/Abhishek220801/DevTinder)
+### 🔹 [DevConnect – Full Stack MERN Application](https://github.com/Abhishek220801/DevTinder)
 A production-focused social matching platform built end-to-end using the MERN stack.  
 Includes secure authentication, profile management, real-time interactions, scalable backend APIs, and cloud deployment.  
 **Ownership:** frontend, backend, database design, and deployment.  
