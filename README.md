@@ -11,7 +11,7 @@ Focused on **shipping real products**, solving real-world problems with clean ar
 - 🧩 Experienced in **React.js, Next.js, Node.js, Express, MongoDB, AWS, and Docker**
 - 🛠️ Hands-on with **authentication, WebSockets, REST APIs, and DevOps fundamentals**
 - ⚙️ State management experience with **Redux Toolkit and Zustand**
-- ☁️ Exploring **.NET Development** and **GenAI integration** to broaden backend depth
+- ☁️ Exploring **.NET Development, C#** and **GenAI integration** to broaden backend depth
 - 🎯 Goal: Secure an impactful **Software / Web Developer** role before 2025 ends  
 
 > “Learn fast. Build real. Ship with intent.”
