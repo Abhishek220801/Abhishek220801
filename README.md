@@ -27,7 +27,7 @@ HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Next.js •
 Node.js • Express.js • REST APIs • WebSockets • JWT Auth • Redis • Prisma  
 
 **Database:**  
-MongoDB • PostgreSQL (basic)  
+MongoDB • PostgreSQL
 
 **DevOps & Cloud:**  
 Git • Docker • AWS (EC2, S3, VPC, IAM) • GitHub Actions (CI/CD)  
