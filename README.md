@@ -10,7 +10,7 @@ Focused on **shipping real products**, solving real-world problems with clean ar
 - 💡 Strong foundation in **DSA, System Design (LLD/HLD), and scalable web apps**
 - 🧩 Experienced in **React.js, Next.js, Node.js, Express, MongoDB, AWS, and Docker**
 - 🛠️ Hands-on with **authentication, WebSockets, REST APIs, and DevOps fundamentals**
-- ⚙️ State management experience with **Redux Toolkit and Zustand**
+- ⚙️ State management experience with **React Context API, Redux Toolkit and Zustand**
 - 🎯 Goal: Secure an impactful **Software Development** role soon  
 
 > “Learn fast. Build real. Ship with intent.”
