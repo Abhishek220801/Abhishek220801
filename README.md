@@ -20,7 +20,7 @@ Currently deep-diving into:
 # 🧠 About Me
 
 - 💡 Strong foundation in **Data Structures & Algorithms, System Design (LLD/HLD), and scalable architectures**
-- ⚡ Experienced in building **real-time systems** using WebSockets, Redis Pub/Sub, and event-driven patterns
+- ⚡ Experienced in building **real-time systems** using WebRTC, WebSockets, Redis Pub/Sub, and event-driven patterns
 - 🧩 Hands-on with **React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL**
 - 🔐 Built secure systems involving **JWT auth, role-based access, protected APIs, and session management**
 - ☁️ Working with **AWS (EC2, S3, IAM, VPC, Route53), Docker, CI/CD pipelines, and deployment workflows**
