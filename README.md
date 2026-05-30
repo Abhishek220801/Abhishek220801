@@ -32,7 +32,7 @@ Currently deep-diving into:
 # 🧰 Tech Stack  
 
 ## 🚀 Frontend
-HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Next.js • Redux Toolkit • Zustand • Tailwind CSS • GSAP • Framer Motion • Shadcn UI  
+HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Next.js • Redux Toolkit • Zustand • Tailwind CSS • GSAP • Framer Motion • Shadcn UI • Ant Design 
 
 ## ⚙️ Backend & APIs
 Node.js • Express.js • REST APIs • WebSockets • JWT Authentication • Redis • Prisma  
