@@ -97,7 +97,7 @@ Features:
 
 ---
 
-## 🔹 Stealth Project – Real-Time Social Platform *(In Progress)*
+## 🔹 Stealth Project – Real-Time Social Platform 
 
 Currently building a **semi-enterprise grade social media platform** with advanced real-time communication infrastructure and scalable backend architecture.  
 
