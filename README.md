@@ -39,7 +39,7 @@ I'm currently going deeper into **building with LLMs**, not just using AI tools.
 
 ### Projects
 
-#### 🎓 [AI Teacher — LLM-Powered Learning Platform](#)
+#### 🎓 [AI Teacher — LLM-Powered Learning Platform](https://github.com/Abhishek220801/ai-teacher-ui)
 
 An AI-driven learning platform that turns a user-defined technology topic into a structured, interactive course.
 
@@ -62,7 +62,7 @@ An AI-driven learning platform that turns a user-defined technology topic into a
 
 ---
 
-#### 🤖 [AI Chatbot](#)
+#### 🤖 [AI Chatbot](https://github.com/Abhishek220801/genai-chatbot)
 
 My first GenAI project, built to understand how LLMs are integrated into real applications.
 
