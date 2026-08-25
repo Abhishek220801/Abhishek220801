@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hey, I'm Abhishek Sankhwar
 
 ### Software Engineer | Full-Stack • Backend • Distributed Systems • GenAI
@@ -257,4 +256,4 @@ I'm particularly interested in:
 > **Execution beats perfection. Build things worth maintaining.**
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=Abhishek220801&icon=0&color=0)
-```
+
