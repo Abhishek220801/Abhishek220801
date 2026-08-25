@@ -132,7 +132,7 @@ An AI-driven platform that dynamically creates technology courses from user-defi
 
 ---
 
-## 🎬 [Automated Video Transcoding Pipeline](https://github.com/Abhishek220801)
+## 🎬 [Automated Video Transcoding Pipeline](https://github.com/Abhishek220801/microservice-automation-pipeline)
 
 **AWS • Serverless • Event-Driven Architecture**
 
