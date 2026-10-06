@@ -247,13 +247,9 @@ I'm particularly interested in:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek220801&theme=transparent&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abhishek220801&theme=transparent)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek220801&theme=transparent&layout=compact)
 
 ---
 
 > **Execution beats perfection. Build things worth maintaining.**
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Abhishek220801&icon=0&color=0)
 
